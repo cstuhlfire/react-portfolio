@@ -5,11 +5,13 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Blog from "./components/pages/Blog";
 import Contact from "./components/pages/Contact";
+import Header from "./components/Header";
 
 function App() {
   return (
     <Router>
       <div>
+        <Header />
         <NavTabs />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
