@@ -1,9 +1,10 @@
 import React from "react";
-import { Link, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
+// import { Link, useLocation } from "react-router-dom";
 
 function NavTabs() {
   // track the current URL with lo
-  const location = useLocation();
+  // const location = useLocation();
 
   return (
     <ul className="subnav-hero-subnav">
