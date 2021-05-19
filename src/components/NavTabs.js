@@ -9,7 +9,7 @@ function NavTabs() {
   return (
     <ul className="subnav-hero-subnav">
       <li className="is-active">
-        <Link to="/">Work</Link>
+        <Link to="/work">Work</Link>
       </li>
       <li>
         <Link to="/about">About</Link>
