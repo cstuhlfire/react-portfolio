@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5e9fd974.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.8b00399c.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.8b00399c.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.dfbf9259.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.dfbf9259.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.fed61080.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fed61080.js.map",
     "static/css/2.61b4cb56.chunk.css": "/react-portfolio/static/css/2.61b4cb56.chunk.css",
@@ -13,8 +13,11 @@
     "static/css/main.5e9fd974.chunk.css.map": "/react-portfolio/static/css/main.5e9fd974.chunk.css.map",
     "static/js/2.c061db09.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c061db09.chunk.js.LICENSE.txt",
     "static/media/Bit1.4d4f00b3.PNG": "/react-portfolio/static/media/Bit1.4d4f00b3.PNG",
+    "static/media/BudgetTracker.d26fe857.PNG": "/react-portfolio/static/media/BudgetTracker.d26fe857.PNG",
     "static/media/CodeAQuiz.9991a7af.PNG": "/react-portfolio/static/media/CodeAQuiz.9991a7af.PNG",
+    "static/media/FitnessTracker.8aa345b4.PNG": "/react-portfolio/static/media/FitnessTracker.8aa345b4.PNG",
     "static/media/TheRaven.5c2ce16c.PNG": "/react-portfolio/static/media/TheRaven.5c2ce16c.PNG",
+    "static/media/WatchParty.e66e975c.PNG": "/react-portfolio/static/media/WatchParty.e66e975c.PNG",
     "static/media/WeatherDash.a6b6f8c9.PNG": "/react-portfolio/static/media/WeatherDash.a6b6f8c9.PNG",
     "static/media/coffee.c21b660f.PNG": "/react-portfolio/static/media/coffee.c21b660f.PNG"
   },
@@ -23,6 +26,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.c061db09.chunk.js",
     "static/css/main.5e9fd974.chunk.css",
-    "static/js/main.8b00399c.chunk.js"
+    "static/js/main.dfbf9259.chunk.js"
   ]
 }
