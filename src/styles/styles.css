@@ -220,6 +220,7 @@
   .my-td {
     text-align: top;
     vertical-align: top;
+    background-color: white;
   }
 
   tr td {

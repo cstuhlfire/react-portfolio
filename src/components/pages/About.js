@@ -1,6 +1,7 @@
 import React from "react";
 import Title from "../Title";
 import "../../styles/styles.css";
+import ResumePDF from "../../links/Resume-ColeenStuhlfire.pdf";
 
 // Details of about me 
 function About() {
@@ -33,7 +34,7 @@ function About() {
                 <li>MVC, RESTful, JSON</li>
                 <li>Data Warehousing, Change Control Management, git</li>
               </ul>
-              <p><a class="portfolio-resume-spacing my-links" href="../../links/Resume-ColeenStuhlfire.pdf" target="_blank">Resume</a></p>
+              <p><a className="my-links" href= {ResumePDF} target="_blank">Resume</a></p>
             </td>
 
             <td className="my-td">
