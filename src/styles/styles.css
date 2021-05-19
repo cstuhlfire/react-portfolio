@@ -204,6 +204,11 @@
     color: var(--my-dark-grey);
     text-decoration: underline;
   }
+
+  .my-table {
+    border-style: solid;
+    border-color: grey;
+  }
   
   footer {
     position: fixed;
