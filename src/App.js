@@ -9,15 +9,19 @@ import "./styles/styles.css";
 
 function App() {
   return (
-    <Router className="wrapper">
-      <div>
-        <Header />
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route path="/contact" component={Contact} />
+    
+    <Router>
+      <div className="wrapper">
+        <div>
+          <Header />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/about" component={About} />
+          <Route path="/contact" component={Contact} />
+        </div>
         <Footer />
       </div>
-    </Router>
+      </Router>
+
   );
 }
 

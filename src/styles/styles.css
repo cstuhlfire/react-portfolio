@@ -12,16 +12,8 @@
   .wrapper {
     box-sizing: border-box;
     position: relative;
-    padding-bottom: 1em; /* Height of footer */
+    padding-bottom: 1em;
     min-height: 100%;
-  }
-  
-  
-  footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background: var(--my-background);
   }
 
   /* For hero block */
@@ -119,9 +111,8 @@
   
   /* For contact */
   .my-social{
+    text-align: center;
     margin-top: 2%;
-    margin-left: 5%;
-    padding-bottom: 1%;
     color: var(--my-dark-grey);
   }
   
@@ -134,8 +125,8 @@
   }
   
   .fas, .fab {
-    margin-left: 10%;
-    margin-right: 1%;
+    margin-left: 1%;
+    margin-right: 0%;
     color: var(--my-dark-grey);
   }
   
@@ -171,7 +162,7 @@
   .my-about-pic {
     float: none;
     display: inline-block;
-    width: 40%;
+    width: 10;
     margin-bottom: 15px;
     border-radius: 50%;
     background-color: var(--my-dark-grey);
@@ -180,6 +171,8 @@
   .my-feature-container {
     color: var(--my-dark-grey);
     margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
   
   .my-feature {
@@ -209,13 +202,15 @@
     text-decoration: underline;
   }
   
-  .social-footer1 {
-    padding: 1rem;
-    background: var(--my-dark-grey);
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background: var(--my-background);
   }
+
   
   
   
