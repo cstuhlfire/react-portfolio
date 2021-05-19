@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/styles.css";
-import Coffee from "../../images/coffee.PNG";
+import Coffee from "./images/coffee.PNG";
 
 function Planner () {
     

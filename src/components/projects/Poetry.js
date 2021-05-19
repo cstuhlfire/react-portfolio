@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/styles.css";
-import TheRaven from "../../images/TheRaven.PNG";
+import TheRaven from "./images/TheRaven.PNG";
 
 function Poetry () {
     

@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/styles.css";
-import WeatherDash from "../../images/WeatherDash.PNG";
+import WeatherDash from "./images/WeatherDash.PNG";
 
 function Weather () {
     

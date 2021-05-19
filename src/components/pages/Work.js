@@ -15,11 +15,12 @@ function Work() {
           </tr>
         </thead>
         <Project project="poetry"/>
+        <Project project="watch"/>
+        <Project project="fitness"/>
+        <Project project="budget"/>
         <Project project="weather"/>
         <Project project="quiz"/>
         <Project project="planner"/>
-        <Project project=""/>
-        <Project project=""/>
      </table>
     <hr></hr>
     <hr></hr>

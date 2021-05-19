@@ -1,7 +1,7 @@
 import React from "react";
 import NavTabs from "./NavTabs";
 import "../styles/styles.css";
-import BitmojiPic from '../images/Bit1.PNG';
+import BitmojiPic from './projects/images/Bit1.PNG';
 
 function Header() {
   return (

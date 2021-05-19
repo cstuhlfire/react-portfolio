@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/styles.css";
-import CodeAQuiz from "../../images/CodeAQuiz.PNG";
+import CodeAQuiz from "./images/CodeAQuiz.PNG";
 
 function Quiz () {
     
