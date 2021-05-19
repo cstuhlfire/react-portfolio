@@ -18,7 +18,7 @@ function FitnessTracker () {
                 <h4>Technology</h4>
                 <p>Javascript, HTML, CSS/Bootstrap framework, express, node.js, RESTful Web API, MongoDB/Mongoose, AtlasDB, Heroku, MVC</p>
                 <h4>Github</h4>
-                <p><a className="my-links" href="https://github.com/cstuhlfire/FitnessTracker" target="_blank" rel="noreferrer">Fitness Tracker Repository</a></p>
+                <p><a className="my-links" href="https://github.com/cstuhlfire/WorkoutTracker" target="_blank" rel="noreferrer">Fitness Tracker Repository</a></p>
                 <br></br>
                 <br></br>
             </div>
