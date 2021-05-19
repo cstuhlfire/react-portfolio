@@ -1,23 +1,29 @@
 import React from "react";
 import Title from "../Title";
 import Project from "../Project";
-import TheRaven from "../../images/TheRaven.PNG";
 
 function Work() {
   return (
     <div>
     <Title title="My Work"/>
 
-      <table className="">
+      <table className="my-table">
         <thead>
           <tr>
             <th width="500"></th>
             <th width="400"></th>
           </tr>
         </thead>
-        <Project />
+        <Project project="poetry"/>
+        <Project project="weather"/>
+        <Project project="quiz"/>
+        <Project project="planner"/>
+        <Project project=""/>
+        <Project project=""/>
      </table>
-
+    <hr></hr>
+    <hr></hr>
+    <hr></hr>
     </div>
 
   );

@@ -11,7 +11,6 @@ function App() {
     <Router>
         <div>
           <Header />
-          <Work />
           <Route exact path="/" component={Work} />
           <Route exact path="/about" component={About} />
           <Route path="/contact" component={Contact} />
