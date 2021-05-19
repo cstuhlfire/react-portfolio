@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This is a profile demonstrating my technical skills in HTML, CSS, and Javascript. There are links to my resume, github repository, and linkedin profile. The included projects are described below.
 
-## Available Scripts
+## Poetry Explorer
+This application presents users with a dashboard in which they can search for poetry by author or title. They can then select words within the poem to get definitions. Definitions are displayed at the bottom of the screen and searched words are maintained in a list to act as a vocabulary builder. Technologies used: Javascript, HTML, CSS.
 
-In the project directory, you can run:
+## Watch Party
+This application allows users to create Watch Parties listing shows, dates, and times with streaming links so that friends can join. This allows people to connect and watch programs together even when they are apart. Technologies used: Javascript, HTML, CSS/Foundation framework, RESTful Web API, mySQL, Heroku, MVC.
 
-### `npm start`
+## Fitness Tracker
+Workout Tracker allows users to create workouts and add exercises to them. The Workout Tracker Dashboard displays the most recent seven workouts and graphs the total time per workout and total weight lifted.The specific type of exercise is also graphed by percent of total workouts. Technologies used: Javascript, HTML, CSS/Bootstrap framework, express, node.js, RESTful Web API, MongoDB/Mongoose, AtlasDB, Heroku, MVC.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Budget Tracker
+The Budget Tracker app enables users to enter debits and credits to an account. The app tracks and graphs the transactions. The app allows for online work with storage in Mongo/Atlas DB and offline work through the use of indexedDB and cache. The app can be installed as a PWA (progressive web app) through the use of a service worker and web manifest. Technologies used: Javascript, HTML, CSS/Bootstrap framework, express, node.js, RESTful Web API, MongoDB deployed to AtlasDB, IndexedDB for offline continuity, Heroku, MVC.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Weather Dash
+This application presents users with a weather dashboard. They can search by city and the current weather and a five day forecast is displayed. A list of recently searched cities is stored so that users can easily retrieve their recent searches. Technologies used: Javascript, HTML, CSS.
 
-### `npm test`
+## CodeAQuiz
+This application is a Seinfeld trivia quiz. Users are give 60 seconds and are challenged to answer trivia questions before time runs out. Ten seconds are lost for each incorrect answer. Users can save their high score. Technologies used: Javascript, HTML, CSS.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Day Planner
+This application is provides a view into a user's daily schedule. The days events are entered and displayed in one hour time blocks. The current hour is highlighted red, past hours are grey, and future time blocks are green. Technologies used: Javascript, HTML, CSS.
 
-### `npm run build`
+## Website Screenshot
+![The Portfolio webpage includes a navigation bar and links to four applications.](./PortfolioGif.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Link to Deployed Application
+[Deployed Application](https://cstuhlfire.github.io/react-portfolio/)
+## Link to Gitbub
+[Link to Github Repository](https://github.com/cstuhlfire/react-portfolio)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## **

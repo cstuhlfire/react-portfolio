@@ -187,7 +187,7 @@
     border: solid var(--my-background);
     margin-top: 15px;
     padding: 10px;
-    opacity: .80;
+    /* opacity: .8; */
     box-shadow: 5px 3px 5px 5px var(--my-background);
   
     transition: all .8s ease-in-out;
@@ -197,7 +197,7 @@
     width: 60%;
     border: solid;
     border-color: var(--my-dark-grey);
-    opacity: 1;
+    /* opacity: 1; */
   }
   
   .my-links {
