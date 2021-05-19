@@ -1,14 +1,13 @@
 import React from "react";
+import Title from "../Title";
 import "../../styles/styles.css";
 // import BitmojiPic from '../../images/Bit1.PNG';
 
 // Details of about me 
 function About() {
   return ( 
-    <div className="my-feature-container">
-      <div className="work-feature-block row my-feature">
-        <h3>About Me</h3>
-      </div>
+    <div>
+      <Title title="About Me"/>
     </div>
   );
 }

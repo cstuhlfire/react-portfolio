@@ -9,19 +9,16 @@ import "./styles/styles.css";
 
 function App() {
   return (
-    
     <Router>
-      <div className="wrapper">
         <div>
           <Header />
+          <Work />
           <Route exact path="/" component={Work} />
           <Route exact path="/about" component={About} />
           <Route path="/contact" component={Contact} />
         </div>
         <Footer />
-      </div>
       </Router>
-
   );
 }
 

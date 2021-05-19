@@ -8,14 +8,7 @@
     margin: 0;
     height: 100%;
   }
-  
-  .wrapper {
-    box-sizing: border-box;
-    position: relative;
-    padding-bottom: 1em;
-    min-height: 100%;
-  }
-
+ 
   /* For hero block */
   .subnav-hero-section {
     text-align: center;
