@@ -32,7 +32,7 @@
     -webkit-justify-content: center;
         -ms-flex-pack: center;
             justify-content: center;
-    height: 325px;
+    height: 300px;
   }
   
   .subnav-hero-section .subnav-hero-headline {
@@ -112,7 +112,8 @@
   /* For contact */
   .my-social{
     text-align: center;
-    margin-top: 2%;
+    vertical-align: center;
+    padding-top: 1%;
     color: var(--my-dark-grey);
   }
   
@@ -125,8 +126,8 @@
   }
   
   .fas, .fab {
-    margin-left: 1%;
-    margin-right: 0%;
+    margin-left: 0%;
+    margin-right: 1%;
     color: var(--my-dark-grey);
   }
   
@@ -167,10 +168,19 @@
     border-radius: 50%;
     background-color: var(--my-dark-grey);
   }
+
+  .my-cells {
+    width: 100%;
+    display: inline-flex;
+    border:rgb(116, 115, 115);
+    border-style: solid;
+  }
   
   .my-feature-container {
+    display: block;
+    border-color:rgb(116, 115, 115);
     color: var(--my-dark-grey);
-    margin-bottom: 5%;
+    margin-bottom: 1%;
     margin-left: 10%;
     margin-right: 10%;
   }

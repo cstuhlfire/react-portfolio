@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Home from "./components/pages/Home";
+import Work from "./components/pages/Work";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import Header from "./components/Header";
@@ -14,7 +14,7 @@ function App() {
       <div className="wrapper">
         <div>
           <Header />
-          <Route exact path="/" component={Home} />
+          <Route exact path="/" component={Work} />
           <Route exact path="/about" component={About} />
           <Route path="/contact" component={Contact} />
         </div>

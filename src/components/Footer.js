@@ -10,8 +10,7 @@ function Footer() {
           <a className="my-contact-text" href="https://www.linkedin.com/in/coleen-stuhlfire-46b990207/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin" aria-hidden="true"></i></a>
           <a className="my-contact-text" href="mailto: cstuhlfire@gmail.com" target="_blank" rel="noreferrer"><i className="fas fa-envelope-square fa" aria-hidden="true"></i></a>
           <a className="my-contact-text" href=""><i className="fas fa-phone-square fa" aria-hidden="true"></i></a>
-          <p><a className="my-contact-text" href="mailto: cstuhlfire@gmail.com" target="_blank" rel="noreferrer">cstuhlfire@gmail.com</a></p>
-          <p>972-638-7055</p>
+          <p><a className="my-contact-text" href="mailto: cstuhlfire@gmail.com" target="_blank" rel="noreferrer">cstuhlfire@gmail.com</a> | 972-638-7055</p>
       </div>
 
     </footer>
