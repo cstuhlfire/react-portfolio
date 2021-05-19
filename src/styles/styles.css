@@ -211,6 +211,17 @@
     margin-bottom: 15%;
   }
 
+  .my-about-table {
+    margin-left: 10%;
+    margin-right: 12%;
+    margin-bottom: 15%;
+  }
+
+  .my-td {
+    text-align: top;
+    vertical-align: top;
+  }
+
   tr td {
     border-bottom: 1px solid var(--my-background);
   }

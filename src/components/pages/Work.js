@@ -7,7 +7,7 @@ function Work() {
     <div>
     <Title title="My Work"/>
 
-      <table className="my-table">
+      <table className="my-table my-feature">
         <thead>
           <tr>
             <th width="500"></th>
