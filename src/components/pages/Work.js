@@ -15,6 +15,7 @@ function Work() {
           </tr>
         </thead>
         <Project project="poetry"/>
+        <Project project="books"/>
         <Project project="watch"/>
         <Project project="fitness"/>
         <Project project="budget"/>

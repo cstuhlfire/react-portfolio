@@ -6,6 +6,7 @@ import Planner from "./projects/Planner";
 import WatchParty from "./projects/WatchParty";
 import FitnessTracker from "./projects/FitnessTracker";
 import BudgetTracker from "./projects/BudgetTracker";
+import UltimateBookList from "./projects/UltimateBookList";
 
 function Project (props) {
     
@@ -13,6 +14,8 @@ function Project (props) {
     <tbody>
         {(props.project === "poetry") ? 
             <Poetry />
+        : (props.project === "books") ? 
+            <UltimateBookList />
         : (props.project) === "weather" ?
             <Weather />
         : (props.project) === "quiz" ?
